@@ -1,3 +1,4 @@
+create a new branch is quick;
 hello git;
 this is first git;
 GIt is a distribuated version control system;
