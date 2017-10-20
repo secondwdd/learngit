@@ -1,3 +1,4 @@
+add merge;
 hhhhhhhhhhhhhhhhhhh;
 create a new branch is quick;
 hello git;
