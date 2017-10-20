@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 fix a bug;
+=======
+ni hao!!!
+>>>>>>> Stashed changes
 add merge;
 hhhhhhhhhhhhhhhhhhh;
 create a new branch is quick;
